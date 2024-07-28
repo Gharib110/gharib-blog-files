@@ -3,19 +3,30 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://agharib.ir/</loc>
-    <lastmod>2022-09-12T19:18:07+04:30</lastmod>
-  </url><url>
-    <loc>https://agharib.ir/post/</loc>
-    <lastmod>2022-09-12T19:18:07+04:30</lastmod>
-  </url><url>
-    <loc>https://agharib.ir/post/test-post/</loc>
-    <lastmod>2022-09-12T19:18:07+04:30</lastmod>
+    <lastmod>2024-07-28T11:14:56+03:30</lastmod>
   </url><url>
     <loc>https://agharib.ir/readme/</loc>
-    <priority>0</priority>
+    <lastmod>2024-07-28T11:14:56+03:30</lastmod>
   </url><url>
     <loc>https://agharib.ir/categories/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agharib.ir/post/test-post/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agharib.ir/post/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agharib.ir/tags/proxifying/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agharib.ir/categories/proxy-vpn/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>https://agharib.ir/post/sniproxy/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url><url>
     <loc>https://agharib.ir/tags/</loc>
+    <lastmod>2024-07-28T00:00:00+00:00</lastmod>
   </url>
 </urlset>

@@ -1,29 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Gharib&#39;s blog</title>
+    <title>Personal Blog</title>
     <link>https://agharib.ir/</link>
-    <description>Alireza Gharib&#39;s blog</description>
-    <generator>Hugo -- gohugo.io</generator>
-    <language>en-US</language>
-    <lastBuildDate>Mon, 12 Sep 2022 19:17:13 +0430</lastBuildDate><atom:link href="https://agharib.ir/index.xml" rel="self" type="application/rss+xml" />
+    <description>Recent content on Personal Blog</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 28 Jul 2024 11:14:56 +0330</lastBuildDate>
+    <atom:link href="https://agharib.ir/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Test Post</title>
-      <link>https://agharib.ir/post/test-post/</link>
-      <pubDate>Mon, 12 Sep 2022 19:17:13 +0430</pubDate>
-      
-      <guid>https://agharib.ir/post/test-post/</guid>
-      <description>The summary content</description>
-    </item>
-    
-    <item>
-      <title></title>
+      <title>Readme</title>
       <link>https://agharib.ir/readme/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
+      <pubDate>Sun, 28 Jul 2024 11:14:56 +0330</pubDate>
       <guid>https://agharib.ir/readme/</guid>
-      <description>Science is like Grapes When we have sour grapes will be Acetose &amp;amp; Useful When we pick them off the trees &amp;amp; eat them, will be Invigorating &amp;amp; Useful When we make wine, will be Healing &amp;amp; Useful When turn into raisins, will be Life-giving &amp;amp; Useful Alright! Which one do you prefer, friend ?! &amp;ndash; Alireza Gharib &amp;ndash;</description>
+      <description>Science is like Grapes When we have sour grapes will be Acetose &amp;amp; Useful When we pick them off the trees &amp;amp; eat them, will be Invigorating &amp;amp; Useful When we make wine, will be Healing &amp;amp; Useful When turn into raisins, will be Life-giving &amp;amp; Useful Alright! Which one do you prefer, friend ?!</description>
     </item>
-    
+    <item>
+      <title>Greetings !</title>
+      <link>https://agharib.ir/post/test-post/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://agharib.ir/post/test-post/</guid>
+      <description>Anything Related to Computers World</description>
+    </item>
+    <item>
+      <title>SniProxy</title>
+      <link>https://agharib.ir/post/sniproxy/</link>
+      <pubDate>Sun, 28 Jul 2024 00:00:00 +0000</pubDate>
+      <guid>https://agharib.ir/post/sniproxy/</guid>
+      <description>How to proxify SNIs to cloak your real IP address ?!</description>
+    </item>
   </channel>
 </rss>
